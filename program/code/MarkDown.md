@@ -38,7 +38,7 @@
 	圖片：
 		和連結類似，在前方多加一個！
 		也可以用html來讓圖片縮小
-		![cat](cat.jpg)
+		![cat](../cat.jpg)
 		<div align="center">
 		<img src=cat.jpg width=45%/>
 		</div>
