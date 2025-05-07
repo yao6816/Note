@@ -40,7 +40,7 @@
 		也可以用html來讓圖片縮小
 		![cat](../cat.jpg)
 		<div align="center">
-		<img src=cat.jpg width=45%/>
+		<img src=../cat.jpg width=45%/>
 		</div>
 		
 
